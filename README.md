@@ -1,5 +1,13 @@
 # Palworld Game Data Analysis
 
+### ⭐ Project Highlights
+- Cleaned and analyzed semi-structured Palworld.gg creature dataset  
+- Examined distributions of combat stats (HP, Attack, Defense, Support)  
+- Evaluated work-suitability traits for base-building roles  
+- Compared Pal types/elements and functional strengths  
+- Built a full EDA workflow integrating biological-style trait interpretation  
+
+
 This repository contains a complete exploratory **data analysis project on Palworld creature data**, using data obtained from Palworld.gg.  
 It was completed as part of an undergraduate Data Fundamentals course and showcases my ability to work with semi-structured, real-world game data, clean it, visualize it, and extract gameplay-relevant insights.
 
